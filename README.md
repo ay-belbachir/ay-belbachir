@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <details><summary>:clipboard:mes stats sur mon github:bar_chart:⬇️</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir&layout=compact&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-belbachir&theme=tokyonight&hide_rank=1)](https://github.com/ay-belbachir/github-readme-stats?target=_blank)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir&layout=compact&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-belbachir&theme=tokyonight&hide_rank=1)](https://github.com/ay-belbachir/github-readme-stats?target=_blank)
 
 
 
