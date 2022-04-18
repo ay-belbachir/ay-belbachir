@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://now-playing-profile-mu.vercel.app" width="256" height="64" alt="Now Playing">`
 </a>
 
-[![Spotify](https://spotify-now-playing-6aqo1y6ya-ay-belbachir.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing-azure-xi.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 🌱 j'ai encore énormément de choses à apprendre
