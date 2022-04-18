@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://now-playing-profile-mu.vercel.app?open">
-    <img src="https://now-playing-profile-mu.vercel.app" width="256" height="64" alt="Now Playing">`
-</a>
 
-[![Spotify](https://spotify-now-playing-azure-xi.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
 🌱 j'ai encore énormément de choses à apprendre
@@ -29,3 +25,6 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir)](https://github.com/ay-belbachir/github-readme-stats&theme=radical)
+
+
+[![Spotify](https://spotify-now-playing-azure-xi.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
