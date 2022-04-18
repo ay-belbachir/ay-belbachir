@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 
 [![Spotify](https://spotify-now-playing-azure-xi.vercel.app/api/spotify)](https://open.spotify.com/user/s1uhanss3zqunmbbbf7hk2x32)
   </details>
+  
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=SCRIPT_AD_NPS)](https://github.com/ay-belbachir/SCRIPT_AD_NPS){target="_blank"}
