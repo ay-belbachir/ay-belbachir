@@ -5,19 +5,16 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
 
 
 
- :seedling:  j'ai encore énormément de choses à apprendre :grin:
+:seedling:  j'ai encore énormément de choses à apprendre :grin:
 
 :telescope: je travaille actuellement sur mon projet de fin d'année et [mon portfolio](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR)
 
@@ -31,10 +28,15 @@ Here are some ideas to get you started:
 
 </details>
 
-<details><summary>:headphones:se que j'écoute sur Spotify⬇️⬇️<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/brands/spotify.svg" width="30" height="30"  background="red"> </summary>
+<details><summary>:headphones:ce que j'écoute sur Spotify⬇️⬇️<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/brands/spotify.svg" width="30" height="30"  background="red"> </summary>
 
 [![Spotify](https://spotify-now-playing-azure-xi.vercel.app/api/spotify)](https://open.spotify.com/user/s1uhanss3zqunmbbbf7hk2x32)
   </details>
   
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=SCRIPT_AD_NPS&theme=tokyonight)](https://github.com/ay-belbachir/SCRIPT_AD_NPS?target=_blank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=portefolio_Ayoub_Belbachir_SIO_SISR&theme=tokyonight)](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR?target=_blank)
+
+
+
+
+⚡ Fun fact: le dev n'est pas ma specialité :wink:
