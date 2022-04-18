@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 
 
-⚡ Fun fact: le dev n'est pas ma specialité :wink:
+<!--⚡ Fun fact: le dev n'est pas ma specialité :wink: -->
