@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <details><summary>:clipboard:mes stats sur mon github:bar_chart:⬇️</summary>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-belbachir)](https://github.com/ay-belbachir/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir)](https://github.com/ay-belbachir/github-readme-stats&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-belbachir&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir&layout=compact&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats&theme=radical)
 
 
 </details>
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   </details>
   
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=SCRIPT_AD_NPS)](https://github.com/ay-belbachir/SCRIPT_AD_NPS?target=_blank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=portefolio_Ayoub_Belbachir_SIO_SISR)](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR?target=_blank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=SCRIPT_AD_NPS&theme=tokyonight)](https://github.com/ay-belbachir/SCRIPT_AD_NPS?target=_blank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=portefolio_Ayoub_Belbachir_SIO_SISR&theme=tokyonight)](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR?target=_blank)
