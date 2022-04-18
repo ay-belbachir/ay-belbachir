@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 :seedling:  j'ai encore énormément de choses à apprendre :grin:
 
-:telescope: je travaille actuellement sur mon projet de fin d'année et [mon portfolio](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR?target=_blank)
+:telescope: je travaille actuellement sur mon projet de fin d'année et [mon portfolio](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR)
 
 
 
 <details><summary>:clipboard:mes stats sur mon github:bar_chart:⬇️</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir&layout=compact&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats?target=_blank)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-belbachir&theme=tokyonight&hide_rank=1)](https://github.com/ay-belbachir/github-readme-stats?target=_blank?target=_blank)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir&layout=compact&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-belbachir&theme=tokyonight&hide_rank=1)](https://github.com/ay-belbachir/github-readme-stats?target=_blank)
 
 
 
