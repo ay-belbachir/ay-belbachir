@@ -1,4 +1,4 @@
-## Salut 👋
+## Bienvenue 👋
 
 <!--
 **ay-belbachir/ay-belbachir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<i class="fa-brands fa-spotify"></i>
+
 
  :seedling:  j'ai encore énormément de choses à apprendre :grin:
 
@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 
 <details><summary>:clipboard:mes stats sur mon github:bar_chart:⬇️</summary>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-belbachir&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir&layout=compact&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir&layout=compact&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats&theme=radical)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay-belbachir&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats)
 
 
 
