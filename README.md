@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   </details>
   
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=SCRIPT_AD_NPS)](https://github.com/ay-belbachir/SCRIPT_AD_NPS?target=_blank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=SCRIPT_AD_NPS)](https://github.com/ay-belbachir/SCRIPT_AD_NPS?target=_blank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=portefolio_Ayoub_Belbachir_SIO_SISR)](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR?target=_blank)
