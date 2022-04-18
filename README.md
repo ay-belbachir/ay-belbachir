@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay-belbachir&layout=compact&theme=tokyonight)](https://github.com/ay-belbachir/github-readme-stats&theme=radical)
 
 
+
 </details>
 
 <details><summary>:headphones:se que j'écoute sur Spotify⬇️⬇️<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/brands/spotify.svg" width="30" height="30"  background="red"> </summary>
