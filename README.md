@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     
 </details>
 
-<details><summary>:headphones:ce que j'écoute sur Spotify maintenant⬇️⬇️<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/brands/spotify.svg" width="30" height="30"  background="red"> </summary>
+<details><summary>⬇️ :headphones:ce que j'écoute sur Spotify maintenant:headphones: ⬇️<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/2360bd54ca4abe8e013d424e6679a397e9b717c8/svgs/brands/spotify.svg" width="30" height="30"  background="red"> </summary>
 
 &nbsp;<p align="center">[![Spotify](https://spotify-now-playing-azure-xi.vercel.app/api/spotify?background_color=1a1b27)](https://open.spotify.com/user/s1uhanss3zqunmbbbf7hk2x32)
   </details>
