@@ -1,4 +1,4 @@
-# <p align="center"> Bienvenue sur mon profil github 👋 </p>
+# <p align="center"> (❍ᴥ❍) Bienvenue sur mon profil github 👋 </p>
 
 <!--
 **ay-belbachir/ay-belbachir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
