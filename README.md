@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 :seedling:  j'ai encore énormément de choses à apprendre :grin:
 
-:telescope: Je travaille actuellement sur Docker, [mise à jour de mon portfolio](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR) et j'apprend à utiliser [docker](https://www.docker.com/)
+
+:telescope: Je travaille actuellement sur la [mise à jour de mon portfolio](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR) et j'apprend à utiliser [docker](https://www.docker.com/)
 
 
 
