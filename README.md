@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 
 -->
 
-<p align="center"> <img src="https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR/blob/main/img/frame.png" width="200" height="whatever"> </p>
+[comment]: <> (<p align="center"> <img src="https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR/blob/main/img/frame.png" width="200" height="whatever"> </p>)
 
 :seedling:  j'ai encore énormément de choses à apprendre :grin:
 
