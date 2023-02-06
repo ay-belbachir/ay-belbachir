@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 
 [comment]: <> (<p align="center"> <img src="https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR/blob/main/img/frame.png" width="200" height="whatever"> </p>)
 
+<p align="center"> <img src="spotify-now/chart.png" width="200" height="whatever"> </p>
+
 :seedling:  j'ai encore énormément de choses à apprendre :grin:
 
-:telescope: Je travaille actuellement sur mon projet de fin d'année, [mon portfolio](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR) et j'apprend à utiliser [docker](https://www.docker.com/)
+:telescope: Je travaille actuellement sur Docker, [mise à jour de mon portfolio](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR) et j'apprend à utiliser [docker](https://www.docker.com/)
 
 
 
