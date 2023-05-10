@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## <p align="center"> :pushpin: </p>
   
   
-&nbsp;<p align="center">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=SCRIPT_AD_NPS&theme=tokyonight)](https://github.com/ay-belbachir/SCRIPT_AD_NPS?target=_blank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=portefolio_Ayoub_Belbachir_SIO_SISR&theme=tokyonight)](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR?target=_blank)
+&nbsp;<p align="center">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=SCRIPT_AD_NPS&&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ay-belbachir/SCRIPT_AD_NPS?target=_blank) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ay-belbachir&repo=portefolio_Ayoub_Belbachir_SIO_SISR&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR?target=_blank)
 </p>
 
 
