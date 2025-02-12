@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- [comment]: <> (<p align="center"> <img src="https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR/blob/main/img/frame.png" width="200" height="whatever"> </p>)
-
+- <p align="center"> <img src="spotify-now/chart.png" width="200" height="whatever"> </p>
 -->
+[comment]: <> (<p align="center"> <img src="https://github.com/ay-belbachir/portefolio_Ayoub_Belbachir_SIO_SISR/blob/main/img/frame.png" width="200" height="whatever"> </p>)
 
 
-<p align="center"> <img src="spotify-now/chart.png" width="200" height="whatever"> </p>
+
 
 :seedling:  j'ai encore énormément de choses à apprendre :grin:
 
